@@ -10,7 +10,10 @@ int main() {
 
     if (num1 != num2){
         cout << "jeff the land shark is the best";
-    } else {
+    } else if (num1 > num2) {
+        cout << "jeff's heals are great";
+    }
+    else {
         cout << "jeff's ult is not that great";
     }
 
