@@ -8,7 +8,7 @@ int main() {
     int num1 = 3;
     int num2 = 3;
 
-    if (num1 == num2){
+    if (num1 != num2){
         cout << "jeff the land shark is the best";
     } else {
         cout << "jeff's ult is not that great";
